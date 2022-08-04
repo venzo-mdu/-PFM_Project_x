@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:personinfo/EditProfile.dart';
+import 'package:personinfo/pages/EditProfile.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
 class PersonInfo extends StatefulWidget {

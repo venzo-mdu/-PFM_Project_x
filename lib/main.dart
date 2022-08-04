@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:personinfo/PersonInfo.dart';
+import 'package:personinfo/pages/PersonInfo.dart';
 
 void main() {
   runApp(const MyApp());
